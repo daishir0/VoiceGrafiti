@@ -1,0 +1,15 @@
+<?php
+return [
+    'openai_api_key' => 'YOUR_OPENAI_API_KEY_HERE',
+    'uploads_dir' => __DIR__ . '/uploads',
+    'audio_dir' => __DIR__ . '/uploads/audio',
+    'text_dir' => __DIR__ . '/uploads/text',
+    'mermaid_dir' => __DIR__ . '/uploads/mermaid',
+    'data_dir' => __DIR__ . '/data',
+    'graph_file' => __DIR__ . '/data/graph.mmd',
+    'version_file' => __DIR__ . '/data/version.txt',
+    'changes_file' => __DIR__ . '/data/changes.json',
+    'recording_interval' => 20,     // 音声録音の間隔（秒）
+    'text_process_interval' => 30,  // テキスト処理の間隔（秒）
+    'display_update_interval' => 30 // グラフ表示更新の間隔（秒）
+]; 
