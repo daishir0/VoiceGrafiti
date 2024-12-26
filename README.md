@@ -59,6 +59,10 @@ chmod 777 data/
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## Acknowledgment
+
+This demonstration utilizes the Podcast provided by Bilingual News ([https://bilingualnews.libsyn.com/](https://bilingualnews.libsyn.com/)). We express our gratitude for their content.
+
 ---
 
 # VoiceGrafiti
@@ -119,3 +123,7 @@ chmod 777 data/
 
 ## ライセンス
 このプロジェクトはMITライセンスの下でライセンスされています。詳細はLICENSEファイルを参照してください。
+
+## 御礼
+
+このデモンストレーションは、バイリンガルニュース（[https://bilingualnews.libsyn.com/](https://bilingualnews.libsyn.com/)）のPodcastを利用させていただきました。
